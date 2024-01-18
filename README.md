@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning **Azure ML**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects and Al projects**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 - 📫 How to reach me **saikumarvidela143@gmail.com**
 
 
