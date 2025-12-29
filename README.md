@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **Adroitent**
 
-- 🌱 I’m currently learning **Azure ML**
+- 🌱 I’m currently learning **Aws Developer**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects and Al projects**
 
