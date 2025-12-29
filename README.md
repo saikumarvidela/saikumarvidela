@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumarvidela" alt="saikumarvidela" /></a> </p>
 
-- 🔭 I’m currently working in **TCS**
+- 🔭 I’m currently working in **Adroitent**
 
 - 🌱 I’m currently learning **Azure ML**
 
